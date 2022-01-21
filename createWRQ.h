@@ -1,0 +1,1 @@
+char* createWRQ(char*, char*);

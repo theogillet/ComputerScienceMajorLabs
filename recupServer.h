@@ -1,0 +1,1 @@
+struct addrinfo* recupServer(char*);
